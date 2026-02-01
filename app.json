@@ -16,8 +16,6 @@
         "foregroundImage": "./assets/icon.png",
         "backgroundColor": "#ffffff"
       },
-      "edgeToEdgeEnabled": true,
-      "predictiveBackGestureEnabled": false,
       "package": "com.bhaskar.rival"
     },
     "web": {
@@ -39,7 +37,6 @@
       ]
     ],
     "extra": {
-      "router": {},
       "eas": {
         "projectId": "dadcc65b-89a8-4f9e-8c54-c10b6e434bb4"
       }
